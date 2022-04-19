@@ -8,5 +8,5 @@ terraform {
       source = "hashicorp/null"
     }
   }
-  required_version = ">= 1.1.8"
+  required_version = ">= 1.1.0"
 }
